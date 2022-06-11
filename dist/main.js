@@ -432,21 +432,6 @@
       </div>
     `}},il=L.bind(p),sl=()=>il`
   <div class="container">
-    <h2>Information Apps</h2>
-    <ol>
-      <li><p>Information Manager v2 and Server Admin with C++11, wxWidgets, boost, libpqxx</p></li>
-      <li><p>File Manager with Python 3, wxPython, libpdf, libjpg libpng, libffmpeg, libmp3, libexcel</p></li>
-      <li><p>Feixiang Web with ECMAScript, Preact, Preact-Router, Marked, Katex (Same Project with its Professional Apps)</p></li>
-      <li><p>Feixiang Server and Server Admin with Haskell (Same Project with its Professional Apps)</p></li>
-    </ol>
-
-    <h2>Professional Apps</h2>
-    <ol>
-      <li><p>Fibermesh with C++11, OpenGL 3.3, Dear ImGui</p></li>
-      <li><p>Stereo Vision and DNN with Python 3, OpenCV 4, Dear PyGui</p></li>
-      <li><p>Feixiang Web Graphics and Vision with ECMAScript, Three.js, Tensorflow.js (Same Project with its Information Apps)</p></li>
-      <li><p>Feixiang Server Machine Learning and Big Data with Haskell (Same Project with its Information Apps)</p></li>
-    </ol>
   </div>
 `,ol=L.bind(p),ll=e=>{console.log(e.url)},cl=e=>ol`
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
