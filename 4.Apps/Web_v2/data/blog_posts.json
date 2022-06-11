@@ -1,0 +1,38 @@
+{
+  "categories": [
+    {
+      "id": "math",
+      "text": "Mathematics"
+    },
+    {
+      "id": "cs",
+      "text": "Computer Science"
+    },
+    {
+      "id": "cs_math_problems",
+      "text": "Coding, Algorithms and Mathematics Problems"
+    },
+    {
+      "id": "cs_code",
+      "text": "Code Reading and Software Architecture"
+    },
+    {
+      "id": "learning",
+      "text": "Learning"
+    }
+  ],
+
+  "posts": [
+    {
+      "id": "123",
+      "category": "learning",
+      "title": "TO BE CONTINUED",
+      "author": "Feixiang Ren",
+      "date": "2014-02-28",
+      "file": "",
+      "thumbnail": "",
+      "description": "",
+      "license": "MIT License"
+    }
+  ]
+}
