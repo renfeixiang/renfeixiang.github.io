@@ -27,7 +27,7 @@
     {
       "datetime": "15 Janurary, 2020",
       "title": "Timeline Design",
-      "description": "Added timeline function in Homepage. It shows my latest activities on homepage.",
+      "description": "Added timeline function in homepage. It shows my latest activities on homepage.",
       "image_path": [
         "4.Apps/Web_v2/images/home/timeline.jpg"
       ]
@@ -35,13 +35,13 @@
     {
       "datetime": "14 Janurary, 2020",
       "title": "Finished the Book App",
-      "description": "Finished the Book App, with one book Computer Science Thinking, I will add Mathematics, Life and Work Books later.",
+      "description": "Finished the Book App, with one book on Computer Science, I will add Mathematics, Life and Work Books later.",
       "image_path": [
         "4.Apps/Web_v2/images/home/book.png"
       ]
     },
     {
-      "datetime": "01 Janurary, 2013",
+      "datetime": "30 December, 2012",
       "title": "Initial Commit of My Website",
       "description": "Converted all my documents, information and blogs into web formats. The website includes the Blog app.",
       "image_path": [
